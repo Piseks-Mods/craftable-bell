@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SsS",
+    "SGS",
+    "SgS"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_nugget"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "minecraft:Stone"
+    }
+  },
+  "result": {
+    "item": "minecraft:bell"
+  }
+}
